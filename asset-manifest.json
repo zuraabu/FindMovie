@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/FindMovie/static/css/main.e82ff901.css",
+    "main.js": "/FindMovie/static/js/main.188113fe.js",
+    "index.html": "/FindMovie/index.html",
+    "static/media/search.svg": "/FindMovie/static/media/search.981b582ea232c3cb047eca919deaf9e8.svg",
+    "main.e82ff901.css.map": "/FindMovie/static/css/main.e82ff901.css.map",
+    "main.188113fe.js.map": "/FindMovie/static/js/main.188113fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e82ff901.css",
+    "static/js/main.188113fe.js"
+  ]
+}
